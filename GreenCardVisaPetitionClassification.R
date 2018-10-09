@@ -1,7 +1,6 @@
 #CS513 - Knowledge Distribution and Data Mining
 #Section: CS513 B
 #Aim: To classify if a Visa petition as Certified or Denied
-#Submitted By: Luis Santiago Luevano, Sanjay Pattanayak, Smriti Vimal
 #Assumptions -
 #1) Not considering Withdrawn petitions
 #2) Certified Expired have been assumed to be Certified as they got expired because the employer did not follow up
